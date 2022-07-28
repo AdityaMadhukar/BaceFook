@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "title": "My 1st Post",
+      "body": "nub",
+      "user": "Yuno",
+      "id": 1
+    },
+    {
+      "title": "My 1st Post",
+      "body": "nub",
+      "user": "Yuno",
+      "id": 2
+    },
+    {
+      "title": "My 1st Post",
+      "body": "nub",
+      "user": "Yuno",
+      "id": 3
+    }
+  ]
+}
