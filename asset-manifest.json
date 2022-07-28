@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BaceFook/static/css/main.3e7202fc.css",
+    "main.js": "/BaceFook/static/js/main.a0f89d43.js",
+    "static/media/dislike.jpg": "/BaceFook/static/media/dislike.efbba02495dc518004fa.jpg",
+    "static/media/edit.jpg": "/BaceFook/static/media/edit.f4a2418caab7f72fc83d.jpg",
+    "static/media/like.jpg": "/BaceFook/static/media/like.f09d276c37684c9e3c26.jpg",
+    "index.html": "/BaceFook/index.html",
+    "main.3e7202fc.css.map": "/BaceFook/static/css/main.3e7202fc.css.map",
+    "main.a0f89d43.js.map": "/BaceFook/static/js/main.a0f89d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e7202fc.css",
+    "static/js/main.a0f89d43.js"
+  ]
+}
