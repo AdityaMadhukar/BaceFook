@@ -12,13 +12,13 @@ function App() {
         
         <div className="content">
           <Switch>
-            <Route exact path='/'>
+            <Route exact path='/BaceFook/'>
               <DashBoard />
             </Route>
-            <Route exact path='/SignIn'>
+            <Route exact path='/BaceFook/SignIn'>
               <SignIn />
             </Route>
-            <Route exact path='/SignUp'>
+            <Route exact path='/BaceFook/SignUp'>
               <SignUp />
             </Route>
           </Switch>
