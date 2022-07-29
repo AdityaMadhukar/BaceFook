@@ -1,30 +1,32 @@
 import Navbar from './Navbar';
 
 import DashBoard from './DashBoard';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import SignIn from './SignIn';
-import SignUp from './SignUp';
+// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+// import SignIn from './SignIn';
+// import SignUp from './SignUp';
 function App() {
   return (
-    <Router>
+    <>
+    {/* <Router> */}
       <div className="App">
         <Navbar />
         
         <div className="content">
-          <Switch>
-            <Route exact path='/'>
+          {/* <Switch> */}
+            {/* <Route exact path='/'> */}
               <DashBoard />
-            </Route>
-            <Route exact path='/SignIn'>
+            {/* </Route> */}
+            {/* <Route exact path='/SignIn'>
               <SignIn />
             </Route>
             <Route exact path='/SignUp'>
               <SignUp />
-            </Route>
-          </Switch>
+            </Route> */}
+          {/* </Switch> */}
         </div>
       </div>
-    </Router>
+    {/* </Router> */}
+    </>
   );
 }
 
